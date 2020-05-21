@@ -25,7 +25,6 @@ Binaries
 The precompiled jars can be found in the [release](https://github.com/florianfurbach/Inequalizer/releases) section.
 
 Usage
-
 ======
 
 Inequalizer supports petri Nets written in the .spec format.
