@@ -17,7 +17,8 @@ export LD_LIBRARY_PATH=<Inequalizer's root>/lib/:$LD_LIBRARY_PATH
 To build the tool run
 ```
 mvn install:install-file -Dfile=lib/z3-4.3.2.jar -DgroupId=com.microsoft -DartifactId="z3" -Dversion=4.3.2 -Dpackaging=jar
-mvn clean install```
+mvn clean install
+```
 
 Binaries
 ======
